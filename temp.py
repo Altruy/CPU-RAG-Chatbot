@@ -1,0 +1,394 @@
+dat = """Change 
+Management
+VForeword 
+The degree of change required in many organizations involves cultural and leadership transformation. 
+Change Management aims to make a contribution to expanding the change manager’s knowledge of the 
+cultural concept in relation to strategic organizational development. Changing an organization’s culture 
+is one of the most difficult leadership challenges. That’s because an organization’s culture comprises an 
+interlocking set of goals, roles, processes, values, communications practices, attitudes and assumptions. 
+The elements fit together as a mutually reinforcing system and combine to prevent any attempt to change 
+it. That’s why single-fix changes, such as the introduction of teams, or lean, or agile, or knowledge man -
+agement, or some new process, may appear to make progress for a while, but eventually the interlocking 
+elements of the organizational culture take over and the change is inexorably drawn back into the existing 
+organizational culture. Changing a culture is a large-scale undertaking, and eventually all of the organi -
+zational managerial solutions and techniques for changing minds will need to be put in play. However 
+the order in which they deployed has a critical impact on the likelihood of success. To define culture and 
+change it is hard, and cultures can persist over a long time. By working backward from observed outcomes 
+to behaviors and beliefs, managers can hypothesize and begin to validate key cultural attributes and un -
+derstand their value and origins. Strategies for modifying the cultural narratives, reframing beliefs through 
+role modeling and selective recruiting, and reinforcing cultures through metric and incentive changes and 
+targeted communications can be deployed to drive culture change. Not engaging and understanding culture 
+systematically early in a transition increases the likelihood of the observation widely attributed to Peter 
+Drucker “ Culture eats strategy for breakfast ”! 
+Culture can be analogous to an iceberg, much of which is submerged under water, which can some -
+times punch a hole through titanic corporate initiatives. The part of culture that can be seen above the 
+waves are the isolated behaviors and outcomes that can surprise and sometimes frustrate incoming exec -
+utives. What is submerged and tacit in the “culture iceberg” are the “shared beliefs and assumptions” in 
+the organization that have often been shaped over generations and that actually drive behaviors. In short, 
+what we often see and perceive as challenging are the artifacts and consequences of culture rather than 
+the values, beliefs, and assumptions that actually define the culture and drive the behaviors and outcomes 
+we observe. Changing culture thus requires change at the beliefs level, which is often substantially more 
+difficult than changing business process or information systems. To complicate matters, there may be an 
+overall company culture and sub-cultures across groups. Sometimes these can be in conflict. 
+Change Management is a textbook for understanding of cultural change within these organizations. 
+To appreciate the dynamics and the problems of leading change in an organization, we need to understand 
+cultural theory and organizational development (OD) methods drawn from the managerial and behavioral 
+sciences. Managers operating at every level need to be able to critically reflect on the underlying assump -
+tions regarding their ability to influence change in an organization. Changing culture is ultimately con -
+cerned with leadership and power issues, and Change Management considers change management in 
+these terms. 
+A dominant theme advanced by this textbook is the assertion that culture controls organizational de -
+cisions and actions. Corporate culture is correlated with the idea of the learning organization: all change 
+involves new learning at the level of the individual, the group and the intergroup. Researchers and prac -
+titioners don’t know enough about the processes of cultural change and call for more longitudinal studies PTB Manara_2018.qxp_PTB Manara Romane  09/01/19  11:46  Pagina V
+VI that explain change in cultural and process terms. There is little doubt that organizations, when they em -
+bark on change initiatives, should consider the cultural dimension. Another aim of Change Management 
+is to advance the idea that organizational change remains the most critical aspect of the managerial ex -
+perience. It is widely understood that when a change strategy is incompatible with the culture of the or -
+ganization, the strategy fails. Managers can find themselves trapped within their current market dynamics, 
+unable to escape the clutches and influence of established cultural paradigms as they try to navigate 
+critical strategic change. As a consequence they need to have some kind of developed conceptual and 
+practical framework for both understanding organizational culture and for working with its dynamic 
+processes. Culture controls decisions and how organizational members express themselves impacts the 
+strategic potential of the organization. 
+Change Management offers a research-based and practical approach to an organized means of leading 
+and managing change. Based on experience with numerous companies, this textbook gets directly at the 
+reasons why organizations succeed or fail to change reasons that concern primarily culture and leader -
+ship. 
+Prof. Domenico Bodega 
+Dean 
+Faculty of Economics PTB Manara_2018.qxp_PTB Manara Romane  09/01/19  11:46  Pagina VI
+VII Gene ral introduction and key ide as 
+I hear you say “Why?” Always “Why?” 
+You see things; and you say “Why?” 
+But I dream things that never were; 
+and I say “Why not?” 
+(George Bernard Shaw 1950) 
+Change Management is nowadays much more than a simple study topic: it is a framework for 
+everybody’s activity, approach and projects, both in the daily life and inside the organizations. 
+No company, no individual, no institution can avoid looking at the present (no more just at the 
+future) situation without thinking: “this will change pretty soon”; tons of paper have been re -
+plenished with a deep description of the change approaches, the change methodologies, the re -
+actions to change, and so on so forth. 
+There’s no need, therefore, to add a new theory to the existing stream, there is rather the clear 
+need of looking at the change as a phenomenon which surrounds all of us and makes our lives 
+more and more dynamic, on a daily basis. 
+Therefore, this book is intended to help students to study. 
+It can sound a bit trivial, but many books don’t help readers to find the way to come up with 
+a final solution of their problem, which is usually a cognitive issue. 
+In other words, they want to be guided to the knowledge and to the culture in a pretty easy 
+and clear way, without troubling too much through the waves of a storming sea. 
+Of course, nobody can preserve students from doing their best in producing strong efforts in 
+order to achieve a higher degree of culture, but we can help them to find a valuable itinerary 
+among the enormous amount of theories disseminated along several decades of written books, 
+articles, essays and so on. 
+This is precisely the rationale behind this book’s publication: to make it easier the under -
+standing of what change management really is, investigating both the most relevant theories and 
+the real life of the organization through several real cases. 
+The above purpose has been obtained combining three different masterpieces of the text -
+books on organization: 
+Burnes, Managing Change, Seventh Edition •
+Carnall – Todnem By, Managing Change in Organizations, Sixth Edition •
+Senior – Swailes, Organizational Change, Fifth Edition •
+all of them published by Pearson Education Limited 
+In conceiving and building up this text as well as in approaching the root of the Change Man -
+agement course, I have used a framework that includes a list of the main aspects that must be 
+considered while approaching a change management process, listed and explained below. PTB Manara_2018.qxp_PTB Manara Romane  09/01/19  11:46  Pagina VII
+VIII The key questions 
+Thanks to the enlightening Burnes’ text, at the beginning of any change there must be a key ques -
+tion: why change? This question sounds a bit obvious from a theoretical standpoint, but the ma -
+jority of the statistics state that nearly 70% of the changes fail, in spite of all the best intentions. 
+Nevertheless, change is more and more practiced as a daily management tool by almost every -
+body with a responsibility. 
+The organizations change to survive: this is the rationale behind the changes. All the organi -
+zations are more and more pressed and threatened by the fast-changing environment, by the dis -
+ruptive incoming competitors, by a huge amount of new business models that drive the markets 
+to a new approach, to new attitudes and different behaviour. While I’m writing this introduction, 
+Uber is struggling to maintain its business model against all the resistances made by the different 
+governments and economies, Airbnb is assaulted by the revenge of the traditional resort and ho -
+tels business, and many other disruptors don’t know if they will see the light of the following 
+day. And even more traditional businessmen and businesswomen wonder if their future is guar -
+anteed and secured, or rather they have to face many evolutionary or revolutionary changes or 
+even turnarounds. 
+The other Burnes’ introductory questions are equally relevant: from the dilemma between 
+individual versus group/system change, to the frequency and the magnitude of change, to the 
+doubts about resistance and where from, till the way to gain employee commitment. Furthermore, 
+are we ready for change? Who will manage the change process? Do they have the appropriate 
+skills? 
+All these, and possibly other, questions, are right and appropriate; above all, the most impor -
+tant point is to ask questions: it opens our minds, it prepares us for the future and makes us ca -
+pable to understand and study the situation. 
+Type and scale of the change 
+“one size fits all” doesn’t apply to the change, as it happens to almost every relevant phenomenon 
+in the history: concerning the change, the scale of change is of high importance to distinguish 
+even the nature itself of the change, or at least the breadth of it. 
+Everybody knows very well what Balogun and Hope Hailey (1999) state about the types of 
+change, which are presented in the figure here below. 
+END RESULT 
+Transformation Realignment NATURE OF CHANGE 
+Big Bang Incremental
+Reconstruction Adaptation 
+Revolution Evolution PTB Manara_2018.qxp_PTB Manara Romane  09/01/19  11:46  Pagina VIII
+IX Moreover, Dunphy & Stace (1988): from fine tuning to corporate transformation there’s a pro -
+gressive escalation of impact of the change on organizations, strategies, cultures, etc. We can 
+simply list the different stages hereby, as a reminder of how the abovementioned theory works, 
+Fine Tuning. 1.
+At departmental level. •
+Making re-alignments to ensure that there is a match between strategy, structure, people •
+and processes. 
+Incremental Adjustment. 2.
+Bit by bit changes to match the changing environment. •
+Minor modifications to strategies or structures •
+Modular Transformation. 3.
+Major realignment of one or more departments or divisions. •
+Downsizing, re-engineering. •
+Corporate Transformation 4.
+(frame-breaking effecting the whole organisation). •
+Discontinuous or frame-breaking change. •
+According to Dunphy & Stace, from fine tuning to corporate transformation there’s a progressive 
+escalation of impact of the change on organizations, strategies, cultures, and so on so forth. 
+The vaste majority of the cases which are presented in this book are about the transformation, 
+in line with recent studies that consider a real change only something that has to do with that. 
+External environment and market momentum 
+Based on the open system principle, no organization can conceive its life in a vacuum, where 
+nothing happens and everything can be run independently; therefore, scanning the external en -
+vironment is the first step in realizing what is going to happen and moreover what is going to 
+impact on their lives. 
+In this respect, the Ansoff and Mc Donnell (1990) five levels of environmental turbulence are 
+very helpful to understand the surrounding environment where all the organizations operate. 
+Level 1 – predictable – characterized by the stability of markets •
+Level 2 – Forecastable by investigation – complexity of the environment increases •
+Level 3 – Predictable threats and opportunities – Even more complex as the organiza - •
+tion’s ability to respond becomes more problematic 
+Level 4 – Partially predictable opportunities – Turbulence increases with the addition of •
+global and socio-political changes 
+Level 5 – Unpredictable surprises – Turbulence increases further with unexpected events •
+and situations occurring more quickly than the organization can respond 
+It is undoubtedly clear that the idea of changing the organization can come from inside and/or 
+outside. PTB Manara_2018.qxp_PTB Manara Romane  09/01/19  11:46  Pagina IX
+XOn the latter, the scanning of the external environment shows that a great deal of influence 
+is made by the market momentum, which is highly relevant for the decision of the entrepreneur 
+to change; a mature market can lead to change in order to revamp the organization capacity of 
+innovating and of making profit out of it, whereas a particularly dynamic market can “force” all 
+the players which compete in that arena to adapt continuously the business model to the changing 
+requests of the customers. 
+On the former, several theories on the life cycle of the organizations have pointed out the in -
+evitable pathway that almost all the organizations go through, coming across different crises and 
+becoming progressively different over the years as well as over the cycles; somebody argues that 
+something from inside, an inner force from the entrepreneur, can feed the ground of the change 
+even in case of scarce inputs from the external environment. Ambition, need for success, 
+founders’ role models that impact on the following generations: these are some of the main inner 
+forces that influence the change, taking CEO’s to international developments, product innova -
+tions, business diversifications, ultimately change/s. 
+Organization 
+As we usually explain in our classes, the organization is a way to make the management of an 
+enterprise possible in the different situations; therefore, the structures are decided on the basis 
+of size, strategy, competitive arena, market momentum, not on the basis of a theoretical idea of 
+what the organizations should be in whatever circumstances. 
+Nevertheless, bureaucracy is an enemy of the change, and as a consequence it is necessary 
+to leave this structure and to make a structural change every time somebody decides to move to -
+wards different goals, strategies and markets; it doesn’t necessarily mean that the new organiza -
+tion structure must be more flexible than the previous one, but anyway it must be different. 
+Moreover, it must be mentioned the necessary orientation towards the new ways of organiz -
+ing, like the network structures in all their forms as well as the virtual organizations, spread over 
+the new entrepreneurial world every time somebody is willing to start up with a business from 
+scratch. 
+As David Weinberger ( Everything is miscellaneous, the power of the new digital disorder ,
+2009) says, “we are rapidly miscellanizing our world, breaking things out of their old organiza -
+tional structures, and enabling individuals to sort and order them on the fly. This goes for beyond 
+simply organizing your information so you can find it again. It can change how a business works.” 
+This theory opens a new frontier to those who are dedicating their professional capacities to or -
+ganize and deliver training, not to speak about those who lead the innovative businesses in this 
+dynamic world. Actually, this idea is remarkably linked to the new organization structures, but 
+it concerns, moreover, the way people learn and consequently act in the new scenario. In this 
+pathway some other theories are invading the space of the old-fashioned organizational studies, 
+like the “Teal Organization” model (Fréderic Laloux, Reinventing the organizations , 2015), and 
+similar ones. PTB Manara_2018.qxp_PTB Manara Romane  09/01/19  11:46  Pagina X
+XI What above is aimed at confirming that nowadays the organization cannot be explained, de -
+signed or changed on the basis of a static and traditional view, but should be considered on the 
+basis of the perpetual change move that flows across this present world. 
+Culture, people, competence and power 
+Must be clearly stated that all the successful changes impact, sooner or later, on the people, in a 
+broader sense. Change in fact has to do with a realignment of the authority throughout the enter -
+prise, and this is one of the most controversial issues. Actually, the majority of the managers de -
+velop their careers with the expectations that their authority increases more and more along their 
+root within the organization that they are, partially or totally, managing. That’s why very often 
+the change processes involve dramatic replacements in the management layers, many promotions 
+as well as several de-motions. It is all about people, the core of all the organizations: people 
+don’t mean exclusively managers, but include all the individuals who, at a different level, give 
+their own contribution to the common mission and strategy. As a matter of fact, the soft system 
+models for change, inspired by the Organization Development theory, are much more likely to 
+succeed than the hard system model for change, where the success seems to be possible just 
+when the scope of the change is very limited. 
+People, moreover, mean competencies, and they are going to change dramatically over the 
+next few years: values, cultures, orientations and beliefs are in a very dynamic and evolutionary 
+stage, as it is happening for the entrepreneurial adventures as well: in this respect, somebody 
+says that within the next three years 50% of the most currently used competencies will be obso -
+lete, whilst the organizations insist on dedicating so few energies and resources to the training 
+and the skills development. 
+Top down or bottom up: this seems to be the dilemma while facing a change management 
+process: managers tend to be uncertain between the choice of imposing a change in a sort of cas -
+cade (tipically the Hard System model for change) and the opportunity given to all the employees 
+involved of being an active part of the process from the very beginning. 
+From both the perspectives, people are essential in accepting, promoting and running the pro -
+cess; what can be different according to the approach which is adopted is the time spent, on one 
+side, and the level of resistance of the employees on the other one. 
+We can see several ways for making people play a key role in the success of their business, 
+like the below reported ones: 
+firstly, they are expected to be fostering the innovation process, both in terms of product •
+innovation and in terms of innovative approach in a broader sense: people put together 
+and encouraged to propose new ideas and suggestions, or simply rewarded to be innova -
+tive in a concrete way, enhance their natural force of being the most powerful source of 
+brightness; 
+secondly, they are requested to be ambassadors of the pure and consolidated culture of •
+the organization they work for, behaving in a way that is expressive of the core values as 
+well the original “style” of their enterprise; PTB Manara_2018.qxp_PTB Manara Romane  09/01/19  11:46  Pagina XI
+XII thirdly, they are invited to take their own responsibility in delivering their duties, in run - •
+ning the organizational processes, in solving the operational problems arising in their 
+ways; in other words, they are not specifically “employees” but rather “co-entrepreneurs”, 
+acting as if the success of their enterprise depended on their daily behaviour. 
+This is enough to prove that putting the human factor in the centre of the organization is probably 
+the only way to make the change successful, in spite of what is declared by several scholars, too 
+often in favour of the hard system approach. 
+Strategy and change model, hard and soft approach 
+Somebody says that it is important to start a journey with a destination clear in mind, unless you 
+want to miss your own way along the trip: this is furthermore valid for the organizational change, 
+which is above all a process and/or a project to be managed properly, in line with the best prac -
+tices put in place by the excellent organizations. Therefore, the first step in running a process is 
+to define a clear, understandable and measurable goal, in order to design a clear roadmap with 
+resources, times, milestones and alternative scenarios. 
+It can be a simple search of cost effectiveness, through an international development, or a 
+new positioning, till the achievement of a market leader position, or something different. 
+Several case studies reported in this book are inspired by a specific strategy; in spite of the 
+origin and the nature of change, the organizations have clear in mind what they are looking for, 
+while starting the root of change. Not so clear, instead, is the model of change that the organiza -
+tions adopt to run the change: they seem to be inspired by a pragmatic approach rather than using 
+a specific theory for change, like the famous Lewin three steps approach, or the eight steps of 
+Kotter. Actually, quite often the theories help us to understand ex post how they approached the 
+change; only rarely it happens that these theories are inspirational sources for the changes them -
+selves. 
+Moreover, even though the organization life tends to become shorter and shorter, compared 
+to what was happening till few decades ago, the step in the growth that the organization is coming 
+across is vital to understand the degree of change readiness, the freshness or the consolidation 
+of the organization culture, the length or the shortness of the heritage that every organization 
+brings with it while facing a change. 
+Therefore, looking at several organizations’ histories, it is crystal clear that something in their 
+evolution acts as a “spark” to turn on the change process: either an M&A process, which forces 
+the organization to align the different cultures, procedures and behavior, or a concrete risk of 
+bankruptcy, or again the opportunity of expanding the business on international basis. The spark 
+acts as a source or a booster to the change, making it urgent and necessary. 
+Hard and soft theories, moreover, can be fitted to a structure formed by two patterns: a com -
+pany can try both theories one after the other, or to apply one of them. Some occasions are known 
+for entrepreneurship, when after application of hard and soft methods at the same moment, were 
+reached good results. Such problem is complicated, but it can become the resource for a com -
+petitive advantage. The consistent adaptation of these theories and its strict priority have to be 
+guaranteed; at first, hard method has to apply, secondly, soft method. From the experience of PTB Manara_2018.qxp_PTB Manara Romane  09/01/19  11:46  Pagina XII
+XIII companies, changes can arise after investigation of requirements for their business units in run -
+ning to the top position of the branch competition. 
+In the soft perspective, we have to deal with a high level of complexity, as well as the goal is 
+to develop corporate culture and human capability through individual and organizational learning. 
+This ‘soft’ approach to change is evident in companies that typically have long-standing com -
+mitment based on the relationships with the employees. While this approach is likely to engage 
+employee’s hearts and achieve long term results, it might not be the right approach when time is 
+the essence. 
+The authors display the fact that self-learning organization as a system in the frame of soft 
+methods, in which the changes depend on organizational culture, staff objectives and motives. 
+The soft method teaches executives to educate staff and to implement organizational means so- 
+called “bottom-up”. 
+The managerial soft models for change are founded by their versatile implementation of 
+changes’ methods, and due to their pure conformation, are prevailed in limited area of the world, 
+rather than hard methods. 
+In conclusion, as Senior and Swailes state, hard systems models of change can be effective 
+to begin a diagnosis of a change situation before categorizing it into more simple or more complex 
+change: for instance, using a hard method could be useful for setting out the commitment to 
+change, carrying out a situational analysis of the forces involved in the change and setting the 
+objectives and their measures of performance for preparing the plan and implementing the 
+change. 
+Hard systems models for change, due to their characteristic of being applied to situations of 
+low to medium complexity, are useful when a particular area of an organization has to be changed 
+but may not infringe on other areas as well as when managerial choices based on rational decision 
+making can be made (Senior et Swailes). 
+Definitely, what the hard approach is less good at doing is the identification of the political 
+and moral issues ambient the implementation of change of this kind. 
+Furthermore, we can define soft methodology as limited when change situations are ‘con -
+strained’ by nature. Actually, this kind of methodology has been promoted to cope with situations 
+of soft complexity where goals and the means of achieving them are unclear. However, there can 
+occur situations in which goals are predetermined and set: change is generally dictated by top 
+management (e.g. franchisees must often run their businesses according to the dictates of the 
+franchiser). For these reasons, of course, when change is desirable, a hard approach is most sug -
+gested. Although the soft method is not the most appropriate in this kind of situations, there is 
+still the need to develop action plans, to implement and reinforce the organizational change de -
+sired. 
+To conclude this point, we can say that it is unlikely that any change model fits perfectly with 
+a particular type of change. Looking at the real world it is much more correct to consider more 
+hybrid approaches to change. Grint (1997) sums up this argument particularly well: ‘Theory is 
+where you know everything and nothing works, practice is where everything works,□ but nobody 
+knows why;□ here we combine theory and practice: nothing works and nobody knows why.’ PTB Manara_2018.qxp_PTB Manara Romane  09/01/19  11:46  Pagina XIII
+XIV How this book is organized 
+The introductory chapter is taken from Burnes, and it is focused on the preliminary questions 
+that everybody asks approaching a possible change: why change? Individual, group or system 
+change? What about resistance? Who are the change agents? How often and how much? 
+This is the background of the change process, since individuals and organizations don’t change 
+spontaneously, because they’d prefer to keep on acting in the same way all life long, preserving 
+their “comfort zone” from the external threats. They, instead, change if and when there is a good 
+reason, overcoming the inertia and the resistance in order to achieve a more desirable and prof -
+itable status. Hence the nature of the change isn’t always the same, depending on the pace and 
+the timeframe of the process. 
+The Chapter 1 is taken from Senior & Swailes, and it’s about a fundamental element of the 
+change, that is the environmental triggers for change and the organizational reaction to them; as 
+it was mentioned at the beginning of this book, the organizations don’t live in a vacuum, but 
+they act as open systems, interacting with the external environment in order to survive and suc -
+ceed. Therefore, it is necessary to scan the external environment in order to foresee the future 
+possible changes and the consequent counteractions. 
+It flows through a view of organizations, from the historical context for change to the description 
+of a n uncertain future, to the o rganizations today and their responses to change. 
+The Chapter 2 comes from Senior & Swailes as well, and helps the students to understand how 
+important is the organizational structure, that is the systematic way the organizations take in 
+order to harmonize goals, behaviors, processes and values. 
+The different structural types are introduced by a cultural framework, that is composed of the 
+description of the meaning and the dimensions of the structures, and are accompanied by some 
+other theoretical insights, like structuration theory, actor-network and institutional theory. Quite 
+clearly, the different elements that influence the organizations and the way that the organizations 
+follow to face the change are descripted and detailed. 
+The Chapters 3 and 4 are taken from Senior & Swailes, and they are about culture and leader -
+ship, the key soft factors to be considered in a change process. 
+So, from the informal organization to the meaning and the description of the organizational cul -
+ture, the chapter clarifies the dimensions of organizational culture and the relative sources, ap -
+proaching the student to the necessary link between organizational culture and change, and 
+explaining how changing organizational culture can bring about the organizational change .
+Furthermore, the topic of management and leadership faces the issues of the a pproaches to lead -
+ership, t eam and distributed leadership, to conclude with the l eadership in times of change. 
+Facing the strategies for managing change, the 5th Chapter , still coming from Senior & Swailes, 
+describes clearly how the hard system models for change work in the real managerial practice, PTB Manara_2018.qxp_PTB Manara Romane  09/01/19  11:46  Pagina XIV
+XV presenting the progressive stages of this systematic approach to change and detailing how to use 
+them in the proper situations. 
+Again, the soft strategies for managing changes are deeply presented in the Chapters 6, 7 and 
+8, all taken from Burnes: the author describes in a very detailed way how the planned change 
+and the Organization Development (OD) have gone on in the history, thanks to the relevant con -
+tribution of Kurt Lewin and the other scholars, like Greiner, Pettigrew, Kotter and other theorists. 
+The process is described in its evolutionary development, highlighting the different stages and 
+the fluctuating success of this approach over the decades, till the recent renaissance of the OD 
+in the nowadays environment. 
+In the Chapter 8 it is provided a specific framework for change, that is a combination of several 
+models describing the nature of change, like Grundy, Kanter and Beer and Nohria, and it is fo -
+cused on understanding the change nature as broadly as possible and on guiding the employee 
+involvement and the final choice on the kind of change process to run. 
+In the Chapters 9 and 10 , taken from Carnall &Todnem By, there is a description of a very 
+useful and hands-on change architecture, that goes from the cycles of change, through the pro -
+grams of change and the relative learning effects, till the explanation of the Gratton’s approach 
+to the strategy methodology, a “living strategy” which lies in the intersection of hard and soft 
+systems, and it is articulated on 5 progressive steps. 
+Starting from the Lewin’s force field analysis, in the 12 th chapter are provided two very simple 
+and complete check lists which help to think about aspects of organization change that might 
+help or hinder the implementation of change. 
+In conclusion, the student can appreciate this journey into the change management phe -
+nomenon, starting from the basic questions, clarifying the relevance of the external envi -
+ronment, realizing how important are both the organizational structures and the people 
+and management issues, diving into the different models and approaches to the change 
+process, getting some practical tools and suggestions to lead the change and finally opening 
+the eyes to the future, that very often is now. 
+Prof. Giacomo Manara 
+Change Management Adjunct Professor 
+Faculty of Economics PTB Manara_2018.qxp_PTB Manara Romane  09/01/19  11:46  Pagina XV
+PTB Manara_2018.qxp_PTB Manara Romane  09/01/19  11:46  Pagina XVI
+"""
